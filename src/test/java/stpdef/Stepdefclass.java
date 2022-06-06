@@ -91,7 +91,7 @@ public class Stepdefclass {
 		}
 	}
 
-	@When("close site")
+	@When("close the site")
 	public void method8() {
 		driver.close();
 	}

@@ -12,4 +12,4 @@ Feature: gitfile
       | dhanu.test@gmail.com | hi dear | hi\n how r you | C:\\Photos\\Goa 2021\\IMG_3741.JPG |
       When do logout
       Then login page should be redisplayed
-      When close site
+      When close the site
